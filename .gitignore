@@ -1,2 +1,2 @@
-/cache/
-/config/development/
+.idea
+*.DS_Store
