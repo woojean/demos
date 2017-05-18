@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Created-By: 1.8.0_121 (Oracle Corporation)
+Main-Class: com.woojean.rpc.demo.RpcServer
+Class-Path: lib/libthrift-0.10.0.jar lib/log4j-1.2.14.jar lib/slf4j-api-1.5.11.jar lib/slf4j-log4j12-1.5.11.jar
