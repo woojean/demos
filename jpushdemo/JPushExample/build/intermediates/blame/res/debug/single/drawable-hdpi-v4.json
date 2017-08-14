@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/wujian/woojean/demos/jpushdemo/JPushExample/build/intermediates/res/merged/debug/drawable-hdpi-v4/tiledstripes.xml",
+        "source": "/Users/wujian/woojean/demos/jpushdemo/JPushExample/res/drawable-hdpi/tiledstripes.xml"
+    },
+    {
+        "merged": "/Users/wujian/woojean/demos/jpushdemo/JPushExample/build/intermediates/res/merged/debug/drawable-hdpi-v4/richpush_btn_selector.xml",
+        "source": "/Users/wujian/woojean/demos/jpushdemo/JPushExample/res/drawable-hdpi/richpush_btn_selector.xml"
+    },
+    {
+        "merged": "/Users/wujian/woojean/demos/jpushdemo/JPushExample/build/intermediates/res/merged/debug/drawable-hdpi-v4/corners_bg.xml",
+        "source": "/Users/wujian/woojean/demos/jpushdemo/JPushExample/res/drawable-hdpi/corners_bg.xml"
+    },
+    {
+        "merged": "/Users/wujian/woojean/demos/jpushdemo/JPushExample/build/intermediates/res/merged/debug/drawable-hdpi-v4/richpush_progressbar.xml",
+        "source": "/Users/wujian/woojean/demos/jpushdemo/JPushExample/res/drawable-hdpi/richpush_progressbar.xml"
+    }
+]

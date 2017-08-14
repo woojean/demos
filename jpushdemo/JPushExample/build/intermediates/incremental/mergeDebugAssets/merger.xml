@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/wujian/woojean/demos/jpushdemo/JPushExample/assets"/><source path="/Users/wujian/woojean/demos/jpushdemo/JPushExample/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/Users/wujian/woojean/demos/jpushdemo/JPushExample/build-types/debug/assets"/></dataSet></merger>

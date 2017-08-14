@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/wujian/woojean/demos/jpushdemo/JPushExample/build/intermediates/res/merged/debug/layout/customer_notitfication_layout_one.xml",
+        "source": "/Users/wujian/woojean/demos/jpushdemo/JPushExample/res/layout/customer_notitfication_layout_one.xml"
+    },
+    {
+        "merged": "/Users/wujian/woojean/demos/jpushdemo/JPushExample/build/intermediates/res/merged/debug/layout/jpush_popwin_layout.xml",
+        "source": "/Users/wujian/woojean/demos/jpushdemo/JPushExample/res/layout/jpush_popwin_layout.xml"
+    },
+    {
+        "merged": "/Users/wujian/woojean/demos/jpushdemo/JPushExample/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/Users/wujian/woojean/demos/jpushdemo/JPushExample/res/layout/main.xml"
+    },
+    {
+        "merged": "/Users/wujian/woojean/demos/jpushdemo/JPushExample/build/intermediates/res/merged/debug/layout/customer_notitfication_layout.xml",
+        "source": "/Users/wujian/woojean/demos/jpushdemo/JPushExample/res/layout/customer_notitfication_layout.xml"
+    },
+    {
+        "merged": "/Users/wujian/woojean/demos/jpushdemo/JPushExample/build/intermediates/res/merged/debug/layout/set_push_time.xml",
+        "source": "/Users/wujian/woojean/demos/jpushdemo/JPushExample/res/layout/set_push_time.xml"
+    },
+    {
+        "merged": "/Users/wujian/woojean/demos/jpushdemo/JPushExample/build/intermediates/res/merged/debug/layout/jpush_webview_layout.xml",
+        "source": "/Users/wujian/woojean/demos/jpushdemo/JPushExample/res/layout/jpush_webview_layout.xml"
+    },
+    {
+        "merged": "/Users/wujian/woojean/demos/jpushdemo/JPushExample/build/intermediates/res/merged/debug/layout/push_set_dialog.xml",
+        "source": "/Users/wujian/woojean/demos/jpushdemo/JPushExample/res/layout/push_set_dialog.xml"
+    }
+]

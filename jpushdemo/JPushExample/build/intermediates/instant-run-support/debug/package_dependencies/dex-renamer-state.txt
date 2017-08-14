@@ -1,0 +1,7 @@
+#Fri Jul 07 11:46:48 CST 2017
+base.0=/Users/wujian/woojean/demos/jpushdemo/JPushExample/build/intermediates/transforms/dex/debug/folders/1000/2/jpush-android_v3.0.6_91eb89722e0afffd7782c8193d49ee786dc9d396
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/wujian/woojean/demos/jpushdemo/JPushExample/build/intermediates/transforms/dex/debug/folders/1000/2/jcore-android_v1.1.3_5bda357ed3ef51c7a5683b21bbded59daeccab1b/classes.dex
+base.1=/Users/wujian/woojean/demos/jpushdemo/JPushExample/build/intermediates/transforms/dex/debug/folders/1000/2/jcore-android_v1.1.3_5bda357ed3ef51c7a5683b21bbded59daeccab1b
+file.0=/Users/wujian/woojean/demos/jpushdemo/JPushExample/build/intermediates/transforms/dex/debug/folders/1000/2/jpush-android_v3.0.6_91eb89722e0afffd7782c8193d49ee786dc9d396/classes.dex
