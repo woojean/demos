@@ -17,3 +17,8 @@
 
 $t = '2017-09-10 12:25:46';
 foo($t);
+
+gmp_testbit(a, index);
+
+
+var_dump(expression;);
