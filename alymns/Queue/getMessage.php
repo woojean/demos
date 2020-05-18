@@ -10,8 +10,8 @@ use AliyunMNS\Exception\MnsException;
 
 // 新建队列操作客户端
 $endPoint = 'http://1460488513831433.mns.cn-shanghai.aliyuncs.com/';
-$accessId = 'LTAI8dvzUOuRxbb2';
-$accessKey = '9GSwPeJ52SWO6VcwoimV0bczzUogRr';
+$accessId = 'LTAI8dvzUOu*****';
+$accessKey = '9GSwPeJ52SWO6Vcwoi******';
 $queueName = 'woojean-queue';
 $client = new Client($endPoint, $accessId, $accessKey);
 
