@@ -6,33 +6,32 @@
  * $num 红包数量
  * $min 红包最小值
  */
-function gen($totalMoney, $num, $min = '0.01')
-{
+function gen($totalMoney, $num, $min='0.01'){
     // 分配结果
     $ret = [];
 
     // 剩余红包金额
     $remainMoney = $totalMoney;
 
-    for ($i = 1; $i < $num; $i++) {
+    for ( $i = 1; $i < $num; $i++) {
         // 剩余红包数量
-        $remainNum = $num - $i;
+        $remainNum = $num-$i;
 
         // 当前可领取的红包的最大值
-        $remainMax = ($remainMoney - $remainNum * $min) / $remainNum;
+        $remainMax = bcsub($remainMoney,$remainNum*$min,2);
 
-        $allocateMoney = mt_rand($min * 100, $remainMax * 100) / 100;
-        $remainMoney = $remainMoney - $allocateMoney;
-        $ret[$i] = [
+        $allocateMoney = bcdiv(mt_rand($min*100, $remainMax*100),100,2);
+        $remainMoney = bcsub($remainMoney,$allocateMoney,2);
+        $ret[$i] = array(
             'allocation' => $allocateMoney,
-            'remainder'  => $remainMoney
-        ];
+            'remainder' => $remainMoney
+        );
     }
 
     // 处理最后一个
     $ret[$num] = [
-        'allocation' => $remainMoney,
-        'remainder'  => 0
+        'allocation'=>$remainMoney,
+        'remainder'=>0
     ];
 
     return $ret;
